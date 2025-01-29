@@ -65,12 +65,11 @@ header.navbar nav ul li a:hover {
 }
 
 .hero-image {
-  flex: 1 1 300px;
+  flex: 1 1 200px;
 }
 
 .hero-image img {
   width: 50%;
-  height: auto;
   margin-left: auto;
   object-fit: cover;
 }
